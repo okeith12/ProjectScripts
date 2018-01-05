@@ -1,0 +1,29 @@
+My experience so far has been hellish but fun.
+The first script I got working was player movement as I thought that is the most important script, at first I used transform.postion
+to move the player but with the addition of rigidbody I created a more realistic style of movement
+After getting the player to move, I needed the camera to follow him so I created the camera controller that follows a given target not 
+just the player. I focused on making my scripts universal so it can be used on alot of different elements
+
+the dialogue script has to be the easiest for me, after watching 20 videos and I kid you not 20!! I was able to utilize dialogue
+but still at intermeidate level as I haven't done branching yet
+
+The Music and sound effects were quite fast and easy just like making a main menu
+I am currently trying to figure out a great way to make a Splash Screen but that can wait
+
+I have dabbled with making health and player attacking which is in my player script. With health i relaized it takes a great looking texture 
+such as something like a green circle that goes down after every hit but that is generic so it leaves endless possiblities
+
+Literally last night I got the path NPC movement to work and was suprised at how easy it was, just had to understand GIZMOS
+
+From Monday to Wednesday I spent working on the NPC movement script which I have to say was the hardest for me because unlike
+the player the NPC has to be able to move around without any INPUT but with some knowledge, so the hardest part was giving brains
+to animations.
+
+Next I am debating on if I want to focus on cutscenes or turn base. I looked into cutscenes yesterday and I was lost but just need to watch about 50 videos
+and read alot of the Unity forms
+
+I have spent the past 2 weeks on Youtube and Unity as I read on the different ways to create scripts and combine the knowledge to make my scripts
+such as the dialgoue script I can have it pop up as soon as talking to NPC or I can animate it to come in.
+
+The Animation function in Unity has become my best friend but also annoys me
+Well that is my Update on how everything is going!!!!!!!
